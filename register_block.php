@@ -5,8 +5,8 @@ function register_hero_block() {
 
     acf_register_block_type( array(
         'name'                   => 'hero_scheduled',
-        'title'                  => __( 'Hero Scheduled', 'psb-true' ),
-        'render_template'        => 'template-parts/blocks/hero_scheduled.php',
+        'title'                  => __( 'Hero Scheduled', 'your-theme' ),
+        'render_template'        => 'template-parts/blocks/scheduled_hero_block.php',
         'category'               => 'media',
         'icon'                   => 'cover-image',
         'mode'                   => 'auto',
