@@ -2,7 +2,7 @@
 /**
  * Hero Scheduled block
  *
- * 
+ * @package      your-theme
 **/
 
 /* Logic for hero section:
